@@ -1,11 +1,12 @@
 # Site settings
 title: 田龙元的博客
-SEOTitle: 田龙元的博客 | TianLongYuan Blog
-header-img: img/home-bg.jpg
+SEOTitle: 田龙元的博客
+header-img: img/contact-bg.jpg
 email: tian0811ly@gmail.com
 description: "关于程序与设计、黑客与画家 | 田龙元，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @田龙元 的个人博客，与你一起发现更大的世界。"
 keyword: " 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://tianlongyuan.github.io"              # your host, for absolute URL
+#url: "https://tianlongyuan.github.io"              # your host, for absolute URL
+url: "https://www.tianlongyuan.com.cn"  
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -78,7 +79,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/home-bg-head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -105,17 +106,20 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "方志明",
+        href: "https://www.fangzhipeng.com/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "左潇龙",
+        href: "http://www.zuoxiaolong.com/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "纯洁的微笑",
+        href: "http://www.ityouknow.com/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "芋道源码",
+        href: "http://www.iocoder.cn/"
+    },{
+        title: "IT故事会",
+        href: "https://idig8.com/"
     },{
         title: "Ebn's Blog",
         href: "http://ebnbin.com/"
@@ -128,11 +132,5 @@ friends: [
     },{
         title: "DHong Say",
         href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
     }
 ]
