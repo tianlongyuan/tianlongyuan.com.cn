@@ -1,6 +1,6 @@
-# Hux Blog
+# Leo Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Live Leo Blog &rarr;](https://tianlongyuan.com.cn)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
